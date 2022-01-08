@@ -25,3 +25,8 @@ In the present work, artificial neural network (ANN) has been used for developin
 
 ### Scripts
 **•** **FP.txt** is a script for the full model
+
+## Authorship
+The code was entirely wirretn by Baqer Aljaman. Abdul Gani Abdul JAmeel is the corresponding author of the work. 
+
+
