@@ -13,15 +13,15 @@ In the present work, artificial neural network (ANN) has been used for developin
 
 ## Overveiw of the files
 ### Data
-FP_data.csv is the entire dataset used for model development
+**•** **FP_data.csv** is the entire dataset used for model development
 
 ### Models
-FP-Developed_KM is the developed model that used in the paper result
-Flash Point Model Deployment (KM).ipynb is code that can be used to verifies the model results
-Flash Point Prediction (KM).ipynb is the full model
+**•** **FP-Developed_KM** is the developed model that used in the paper result
+**•** **Flash Point Model Deployment (KM).ipynb** is code that can be used to verifies the model results
+**•** **Flash Point Prediction (KM).ipynb** is the full model
 
 ### Results
-FP_Results.csv is the model results
+**•** **FP_Results.csv** is the model results
 
 ### Scripts
-FP.txt is a script for the full model
+**•** **FP.txt** is a script for the full model
